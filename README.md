@@ -21,9 +21,6 @@ Este script en Bash permite realizar un ataque de **deautenticación WiFi**, for
 sudo apt update && sudo apt install aircrack-ng
 ```
 
-```bash
-sudo apt update && sudo apt install aircrack-ng
-```
 ### 2. Da permisos de ejecución al script
 ```bash
 chmod +x deauth.sh
